@@ -70,3 +70,45 @@ def genetic_algorithm():
 # Run the Genetic Algorithm
 if __name__ == "__main__":
     genetic_algorithm()
+Generation 1
+Best fitness: 6 Chromosome: [1, 1, 1, 1, 0, 1, 1, 0]
+Generation 2
+Best fitness: 6 Chromosome: [1, 1, 1, 1, 0, 1, 1, 0]
+Generation 3
+Best fitness: 7 Chromosome: [1, 1, 1, 0, 1, 1, 1, 1]
+Generation 4
+Best fitness: 7 Chromosome: [1, 1, 1, 0, 1, 1, 1, 1]
+Generation 5
+Best fitness: 7 Chromosome: [1, 1, 1, 0, 1, 1, 1, 1]
+Generation 6
+Best fitness: 8 Chromosome: [1, 1, 1, 1, 1, 1, 1, 1]
+Generation 7
+Best fitness: 8 Chromosome: [1, 1, 1, 1, 1, 1, 1, 1]
+Generation 8
+Best fitness: 8 Chromosome: [1, 1, 1, 1, 1, 1, 1, 1]
+Generation 9
+Best fitness: 8 Chromosome: [1, 1, 1, 1, 1, 1, 1, 1]
+Generation 10
+Best fitness: 8 Chromosome: [1, 1, 1, 1, 1, 1, 1, 1]
+Generation 11
+Best fitness: 8 Chromosome: [1, 1, 1, 1, 1, 1, 1, 1]
+Generation 12
+Best fitness: 8 Chromosome: [1, 1, 1, 1, 1, 1, 1, 1]
+Generation 13
+Best fitness: 8 Chromosome: [1, 1, 1, 1, 1, 1, 1, 1]
+Generation 14
+Best fitness: 8 Chromosome: [1, 1, 1, 1, 1, 1, 1, 1]
+Generation 15
+Best fitness: 8 Chromosome: [1, 1, 1, 1, 1, 1, 1, 1]
+Generation 16
+Best fitness: 8 Chromosome: [1, 1, 1, 1, 1, 1, 1, 1]
+Generation 17
+Best fitness: 8 Chromosome: [1, 1, 1, 1, 1, 1, 1, 1]
+Generation 18
+Best fitness: 8 Chromosome: [1, 1, 1, 1, 1, 1, 1, 1]
+Generation 19
+Best fitness: 8 Chromosome: [1, 1, 1, 1, 1, 1, 1, 1]
+Generation 20
+Best fitness: 8 Chromosome: [1, 1, 1, 1, 1, 1, 1, 1]
+
+Best solution: [1, 1, 1, 1, 1, 1, 1, 1] Fitness: 8
